@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a 16-year-old Full-Stack Developer with over 5 years of programming experience.
+ I'm a passionate 16-year-old Software Developer 👨‍💻 interested in building full-stack applications, reusable UI components, backend services 🛠️, and CLI tools.
 
 
 # 💻 Tech Stack:
